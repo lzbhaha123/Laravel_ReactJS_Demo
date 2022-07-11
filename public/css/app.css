@@ -1,0 +1,27 @@
+#filters{
+    display: flex;
+    justify-content: flex-start;
+    margin: 20px auto;
+}
+#filters>button{
+    margin-right:10px;
+}
+#articleList >.card{
+    margin: 15px auto;
+}
+
+#articleList >.card span{
+    margin: 0px 5px;
+}
+
+h1,h3{
+    text-align: center;
+}
+a,a:hover{
+    color:white;
+}
+
+.post_content{
+    max-width: 800px;
+    margin: 10px auto;
+}
